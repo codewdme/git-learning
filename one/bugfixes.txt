@@ -6,3 +6,4 @@ third bug fixed.
 fourth bug was fixed.
 
 one more bug was detected.
+fifth bug fixed.
