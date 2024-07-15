@@ -3,3 +3,5 @@ All bugs were fixed!
 Yet we don't know how to !
 
 add another marketing message session.
+
+add footer note.
